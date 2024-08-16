@@ -12,7 +12,9 @@ The running example can be seen here:
 
 [https://pubinv.github.io/nano-cap-table/](https://pubinv.github.io/nano-cap-table/)
 
-(You will not be able to change the table unless you have a github access token to the repo which is serving the github pages.
+(
+   You will not be able to change the table unless you have a github access token to the repo which is serving the github pages.
+)
 
 ## Features
 
